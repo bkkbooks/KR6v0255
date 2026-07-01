@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0255/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周大將軍延壽公碑頌
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0070.xml
+    old_id: I01n0070
+hash: sha256:4d98f2a9a20f2e87147d108f7b6c3042dc39046a6a16e8e4ff0689b9bcc136de
