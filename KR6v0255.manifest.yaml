@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0255_000.yaml, hash: 'sha256:4d98f2a9a20f2e87147d108f7b6c3042dc39046a6a16e8e4ff0689b9bcc136de'}
-  - {seq: 1, filename: KR6v0255_001.yaml, hash: 'sha256:b9f48877db91c4972ef17ae71ed4f804ebc1030b2ac5e2c42e0aae20a785fa05'}
+  - {seq: 1, filename: KR6v0255_001.yaml, hash: 'sha256:929880df8beb1d3373596d1c63e428290c3b3cb2d27210364cb487705c096481'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0255_001.markers.yaml, hash: 'sha256:5eb3fffc228b6da6513859e31f27f120788d9ea70588ca60e3d3f2027ec4d46e'}
+  - {seq: 0, role: markers, filename: assets/KR6v0255_000.markers.yaml, hash: 'sha256:fc7badd64dbd126c657bb410b40cf56d130cb68d75985ca9bf8a6f4bd6de9d57'}
+  - {seq: 1, role: markers, filename: assets/KR6v0255_001.markers.yaml, hash: 'sha256:395f2f39446df7e7abf9e3c3f85947cc557669ac7fceaba3c34ef97fdb7ea26f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 周大將軍延壽公碑頌
   type: juan
   level: 1
-hash: sha256:ecf22ab4d0555d6d3a46d3def6c3e34de5a808c79e2b8d24f347025face0b317
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f754989e0e7171e0c7937523343d8873dce3c4d9eb5c226986a63d8c4de32d93
