@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0255/v1
 canonical_location: https://kanripo.org/bkk/KR6v0255/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 周大將軍延壽公碑頌
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0255_000.yaml, hash: 'sha256:4d98f2a9a20f2e87147d108f7b6c3042dc39046a6a16e8e4ff0689b9bcc136de'}
-  - {seq: 1, filename: KR6v0255_001.yaml, hash: 'sha256:929880df8beb1d3373596d1c63e428290c3b3cb2d27210364cb487705c096481'}
+  - {seq: 1, filename: KR6v0255_001.yaml, hash: 'sha256:b9f48877db91c4972ef17ae71ed4f804ebc1030b2ac5e2c42e0aae20a785fa05'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0255_000.markers.yaml, hash: 'sha256:fc7badd64dbd126c657bb410b40cf56d130cb68d75985ca9bf8a6f4bd6de9d57'}
-  - {seq: 1, role: markers, filename: assets/KR6v0255_001.markers.yaml, hash: 'sha256:395f2f39446df7e7abf9e3c3f85947cc557669ac7fceaba3c34ef97fdb7ea26f'}
+  - {seq: 1, role: markers, filename: assets/KR6v0255_001.markers.yaml, hash: 'sha256:448aefe3c799ab196a143d5869e7e2d579470aad9e91090cea2543cfd3fd17a6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 周大將軍延壽公碑頌
   type: juan
   level: 1
-hash: sha256:f754989e0e7171e0c7937523343d8873dce3c4d9eb5c226986a63d8c4de32d93
+hash: sha256:84915b9df49f0860c66f3a80d3f46f41ce61a37de864e7f8e3c709462e4c350a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
